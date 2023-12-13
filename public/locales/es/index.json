@@ -1,0 +1,80 @@
+{
+  "hero": {
+    "title": "Creatividad en",
+    "title2": "Nuestra linea de sangre",
+    "btnText": "Realizar una Cotización",
+    "socialLinksHeading": "Síguenos"
+  },
+
+  "funfact": {
+    "title": "Nuestros datos curiosos",
+    "subtitle": "Lorem ipsum"
+  },
+
+  "funfactData": {
+    "title1": "Clientes felices",
+    "title2": "Projectos completados",
+    "title3": "Miembros del Equipo",
+    "title4": "Productos Digitales"
+  },
+
+  "services": {
+    "title": "Servicios con los que podemos ayudarte",
+    "subtitle": "QUE PODEMOS HACER",
+    "btnText": "Ver Todos los Servicios"
+  },
+
+  "title": "Inicio",
+  "subtitle": "Ofrecemos la mejor solución de resolución de problemas para nuestro cliente y proporcionamos el mejor producto de acabado en el presente y en el futuro.",
+
+  "portfolio": {
+    "title": "Título del portafolio",
+    "subtitle": "Ultimos Projectos"
+  },
+
+  "awards": {
+    "title": "Recibimos Múltiples Premios",
+    "subtitle": "Nuestros Premios",
+    "position": "Website del Día",
+    "type": "Excelencia Móvil",
+
+    "position2": "Mención Honorable",
+    "type2": "Excelencia de Escritorio",
+
+    "name3": "Nueva Tecnología Innovadora",
+    "position3": "Mención Honorable",
+    "type3": "Excelencia de Escritorio",
+
+    "name4": "UI/UX Diseñador del Mes",
+    "position4": "Website del Día",
+    "type4": "Excelencia de Escritorio",
+
+    "position5": "Website del Día",
+    "type5": "Excelencia Móvil",
+
+    "position6": "Mención Honorable",
+    "type6": "Excelencia de Escritorio"
+  },
+
+  "videoBlock": {
+    "text": "Nuestro proceso ágil es la capacidad de adaptarse y responder al cambio. Las organizaciones ven el cambio como una oportunidad, no como una amenaza."
+  },
+
+  "team": {
+    "title": "Miembros del Team",
+    "title2": "Aimet",
+    "subtitle": "Nuestro Team"
+  },
+
+  "movingText": {
+    "text": "Nuestros Socios Mundiales"
+  },
+
+  "cta": {
+    "title": "Hablemos de hacer",
+    "title2": "algo",
+    "title3": "genial",
+    "title4": "JUNTOS",
+    "btnText": "Solicitar reunión"
+  }
+}

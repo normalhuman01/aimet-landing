@@ -1,0 +1,15 @@
+{
+  "metaTitle": "Team - Aimet",
+  "heading": {
+    "titlePrincipal": {
+      "title": "our team",
+      "pageLinkText": "Team"
+    },
+    "subtitle": "Our Team",
+    "container": "Meet our awesome <br/>team members",
+    "cta": {
+      "title": "Let’s disscuse make <br />something",
+      "btnText": "Apply For Meeting"
+    }
+  }
+}

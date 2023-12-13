@@ -1,0 +1,79 @@
+{
+  "hero": {
+    "title": "Creativity in",
+    "title2": "Our Bloodline",
+    "btnText": "Request a Quote",
+    "socialLinksHeading": "Follow Us"
+  },
+
+  "funfact": {
+    "title": "Our Fun Facts",
+    "subtitle": "Lorem ipsum"
+  },
+
+  "funfactData": {
+    "title1": "Happy Clients",
+    "title2": "Projects Completed",
+    "title3": "Team Members",
+    "title4": "Digital Products"
+  },
+
+  "services": {
+    "title": "Services We Can Help You With",
+    "subtitle": "WHAT WE CAN DO",
+    "btnText": "View All Services"
+  },
+
+  "title": "Home",
+  "subtitle": "We provide the best problem-solving solution for our clients and provide the best finishing product in the present and in the future.",
+
+  "portfolio": {
+    "title": "Portfolio Title",
+    "subtitle": "Latest Projects"
+  },
+
+  "awards": {
+    "title": "We Received Multiple Awards",
+    "subtitle": "Our Awards",
+    "position": "Website of the Day",
+    "type": "Mobile Excellence",
+    "position2": "Honorable Mention",
+    "type2": "Desktop Excellence",
+
+    "name3": "New Innovative Technology",
+    "position3": "Honorable Mention",
+    "type3": "Desktop Excellence",
+
+    "name4": "UI/UX Designer of the Month",
+    "position4": "Website of the Day",
+    "type4": "Desktop Excellence",
+
+    "position5": "Website of the Day",
+    "type5": "Mobile Excellence",
+
+    "position6": "Honorable Mention",
+    "type6": "Desktop Excellence"
+  },
+
+  "videoBlock": {
+    "text": "Our agile process is the ability to adapt and respond to change. Organizations see change as an opportunity, not a threat."
+  },
+
+  "team": {
+    "title": "Team Members",
+    "title2": "Aimet",
+    "subtitle": "Our Team"
+  },
+
+  "movingText": {
+    "text": "Our Global Partners"
+  },
+
+  "cta": {
+    "title": "Let's Talk About",
+    "title2": "Doing",
+    "title3": "Something",
+    "title4": "Great",
+    "btnText": "Request a Meeting"
+  }
+}

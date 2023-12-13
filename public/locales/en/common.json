@@ -1,0 +1,61 @@
+{
+  "header": {
+    "services": "Service",
+    "softwareDevelopment": "Software Development",
+    "uiUxDesign": "UI/UX Design",
+    "digitalMarketing": "Digital Marketing",
+    "portfolio": "Portfolio",
+    "about": "About",
+    "team": "Team",
+    "contact": "Contact",
+    "faq": "FAQ"
+  },
+  "footer": {
+    "text": "Welcome to Aimet",
+    "contactUs": "Contact us",
+    "services": {
+      "title": "Services"
+    },
+    "newsLetter": {
+      "title": "Subscribe",
+      "subtitle": "We will inform you of our news and promotions.",
+      "placeholder": "example@gmail.com",
+      "send": "Send"
+    },
+
+    "copyright": {
+      "title": "Terms of Use",
+      "title2": "Privacy Policies"
+    }
+  },
+
+  "heading": {
+    "headerHeading": "Do you have a project in",
+    "headerHeading2": "mind? Keep in touch with us",
+    "contactUs": "Contact us",
+    "newsLetter": {
+      "title": "Subscribe",
+      "subtitle": "We will inform you of our news and promotions.",
+      "placeholder": "example@gmail.com",
+      "send": "Send"
+    }
+  },
+
+  "pageHeading": {
+    "home": "Home"
+  },
+
+  "testimonial": {
+    "text": "I wish I would have thought of it first. Creative agency is the most valuable business resource we have EVER purchased. Your stuff is the bomb! and that's exactly what was said by that truth-finder and, so to speak, the architect of a happy life",
+    "designation": "CEO at Technology",
+
+    "text2": "I wish I would have thought of it first. Creative agency is the most valuable business resource we have EVER purchased. Your stuff is the bomb! and that's exactly what was said by that truth-finder and, so to speak, the architect of a happy life",
+    "designation2": "CEO at Technology",
+
+    "text3": "I wish I would have thought of it first. Creative agency is the most valuable business resource we have EVER purchased. Your stuff is the bomb! and that's exactly what was said by that truth-finder and, so to speak, the architect of a happy life",
+    "designation3": "CEO at Technology",
+
+    "text4": "I wish I would have thought of it first. Creative agency is the most valuable business resource we have EVER purchased. Your stuff is the bomb! and that's exactly what was said by that truth-finder and, so to speak, the architect of a happy life",
+    "designation4": "CEO at Mostro Solutions"
+  }
+}

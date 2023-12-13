@@ -1,0 +1,12 @@
+{
+    "titlePrincipal":"Contacta con nosotros",
+    "title":"Contacto",
+    "subtitleLittle":"Dame un toque", 
+    "subtitleLarge":"¿Tiene un proyecto en mente?",
+    "labelName":"Nombres",
+    "labelEmail":"Correo",
+    "labelProjectType":"Tipo de Proyecto",
+    "labelPhone":"Teléfono",
+    "labelDescription":"Descripción",
+    "btnspan":"Enviar mensaje"
+}

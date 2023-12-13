@@ -1,0 +1,32 @@
+{
+  "metaTitle": "Frequently Asked Question - Aimet",
+  "header": {
+    "titlePrincipal": "Frequently Asked Questions",
+    "pageLinkText": "faq"
+  },
+  "faqCategory": {
+    "title": "FAQ Category",
+    "serviceRelated": "Service Related",
+    "pricing": "Pricing",
+    "proyecDelivery": "Project Delivery",
+    "documentation": "Documentation"
+  },
+  "title": {
+    "title-principal": "Let’s disscuse make something",
+    "cool": "Cool",
+    "together": "Together"
+  },
+  "btnMeeting": "Apply For Meeting",
+  "preguntas": {
+    "pregunta1": "Do you design illustration website?",
+    "respuesta1": "At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesent voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui.",
+    "pregunta2": "Do you provide design source file after finish work?",
+    "respuesta2": "At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesent voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui.",
+    "pregunta3": "How to provide project details and payments?",
+    "respuesta3": "At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesent voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui.",
+    "pregunta4": "Can you tell me please how to contact for project?",
+    "respuesta4": "At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesent voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui.",
+    "pregunta5": "Do you makes custom logo, icon etc?",
+    "respuesta5": "At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesent voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui."
+  }
+}

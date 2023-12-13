@@ -1,0 +1,49 @@
+{
+  "metaTitle": "Nosotros - Aimet",
+
+  "heading": {
+    "title": "Sobre Nosotros"
+  },
+
+  "aboutHeading": {
+    "title": "Su socio de confianza para los negocios",
+    "subtitle":"Acerca de nuestra Agencia",
+    "paragraph": "Este es el principal factor que nos diferencia de nuestra competencia.y nos permite ofrecer un servicio especializado de consultoría empresarial. Nuestro equipo aplica su amplia experiencia para determinar. A través de nuestros años de experiencia, también hemos aprendido que mientras cada canal."
+  },
+
+  "funfact":{
+    "title": "Nuestro dato curioso",
+    "subtitle":"Lorem ipsum"
+  },
+  
+  "funfactData":{
+    "title1":"Clientes felices",
+    "title2":"Projectos completados",
+    "title3":"Miembros del Equipo",
+    "title4":"Productos Digitales"
+  },
+
+  "whyChooseUs":{
+    "title":"Gente altamente experimentada con nosotros",
+    "subtitle":"¿Por qué elegirnos?",
+
+    "paragraph":"Este es el principal factor que nos diferencia de nuestra competencia. y nos permite entregar una consultoría de negocios especializada servicio. Nuestro equipo aplica su amplia experiencia a determinando. A través de nuestros años de experiencia, también hemos aprendido que mientras cada canal.",
+
+    "paragraph2":"Este es el principal factor que nos diferencia de nuestra competencia. y nos permite entregar una consultoría de negocios especializada servicio. Nuestro equipo aplica su amplia experiencia a determinando. A través de nuestros años de experiencia, también hemos aprendido que mientras cada canal."
+  },
+  
+  "team":{
+    "title":"Miembros del Team",
+    "title2":"Aimet",
+    "subtitle":"Nuestro Team"
+  },
+  
+  "cta":{
+    "title":"Hablemos de hacer",
+    "title2":"algo",
+    "title3":"genial",
+    "title4":"JUNTOS",
+    "btnText":"Solicitar reunión"
+  }
+}
+

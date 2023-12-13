@@ -1,0 +1,47 @@
+{
+  "metaTitle": "About - Aimet",
+
+  "heading": {
+    "title": "About Us"
+  },
+
+  "aboutHeading": {
+    "title": "Your trusted partner for business",
+    "subtitle": "About our Agency",
+    "paragraph": "This is the main factor that sets us apart from our competition and allows us to offer a specialized business consulting service. Our team applies their extensive experience to determine. Through our years of experience, we have also learned that while each channel."
+  },
+
+  "funfact": {
+    "title": "Our fun fact",
+    "subtitle": "Lorem ipsum"
+  },
+
+  "funfactData": {
+    "title1": "Happy Clients",
+    "title2": "Projects Completed",
+    "title3": "Team Members",
+    "title4": "Digital Products"
+  },
+
+  "whyChooseUs": {
+    "title": "Highly experienced people with us",
+    "subtitle": "Why Choose Us?",
+    "paragraph": "This is the main factor that sets us apart from our competition and allows us to deliver a specialized business consulting service. Our team applies their extensive experience to determine. Through our years of experience, we have also learned that while each channel.",
+
+    "paragraph2": "This is the main factor that sets us apart from our competition and allows us to deliver a specialized business consulting service. Our team applies their extensive experience to determine. Through our years of experience, we have also learned that while each channel."
+  },
+
+  "team": {
+    "title": "Team Members",
+    "title2": "Aimet",
+    "subtitle": "Our Team"
+  },
+
+  "cta": {
+    "title": "Let's talk about",
+    "title2": "something",
+    "title3": "great",
+    "title4": "Together",
+    "btnText": "Request a meeting"
+  }
+}

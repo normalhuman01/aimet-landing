@@ -1,0 +1,32 @@
+{
+  "metaTitle": "Preguntas frecuentes - Aimet",
+  "header": {
+    "titlePrincipal": "Preguntas frecuentes",
+    "pageLinkText": "preguntas-frecuentes"
+  },
+  "faqCategory": {
+    "title": "Categoría de preguntas frecuentes",
+    "serviceRelated": "Relacionado con el servicio",
+    "pricing": "Precios",
+    "proyecDelivery": "Entrega de proyectos",
+    "documentation": "Documentación"
+  },
+  "title": {
+    "title-principal": "Discutamos y creemos Algo juntos",
+    "cool": "Genial",
+    "together": "Juntos"
+  },
+  "btnMeeting": "Solicitar reunión",
+  "preguntas": {
+    "pregunta1": "¿Diseñan ilustraciones para sitios web?",
+    "respuesta1": "Sí, diseñamos ilustraciones para sitios web. ",
+    "pregunta2": "¿Proporcionan los archivos fuente de diseño después de finalizado el trabajo?",
+    "respuesta2": "Sí, proporcionamos los archivos fuente de diseño después de finalizado el trabajo. ",
+    "pregunta3": "¿Cómo proporcionar los detalles del proyecto y los pagos?",
+    "respuesta3": "Puede proporcionar los detalles del proyecto y realizar los pagos a través de nuestro sitio web o ponerse en contacto con nuestro equipo para obtener ayuda adicional. ",
+    "pregunta4": "¿Cómo puedo contactarlos para un proyecto?",
+    "respuesta4": "Puede ponerse en contacto con nosotros a través del formulario de contacto en nuestro sitio web o enviando un correo electrónico a nuestro equipo de soporte. ",
+    "pregunta5": "¿Realizan logotipos, iconos personalizados, etc?",
+    "respuesta5": "Sí, realizamos logotipos, iconos personalizados y otros diseños personalizados según las necesidades de nuestros clientes. "
+  }
+}
